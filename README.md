@@ -6,6 +6,6 @@
 
 #### Tutorial Completo en [Zacetrex](http://zacetrex.com)
 
-![](https://raw.githubusercontent.com/Zacetrex/Kits-Robotica/refs/heads/main/Kit%20Carro%20RF.png)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Kit-Carro-RF.png)
 
-![](https://raw.githubusercontent.com/Zacetrex/Kits-Robotica/refs/heads/main/Kit%20Carro%20RF%20control.png)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Kit-Carro-RF-Control.png)
